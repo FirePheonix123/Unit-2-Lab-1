@@ -4,8 +4,8 @@ public class StudentRunner {
         Student Muhammad = new Student("Muhammad", 16, 140, 12, -1, false);
 
 
-        Marvel.printDetails();
-        System.out.println();
         Muhammad.printDetails();
+        System.out.println();
+        Marvel.printDetails();
     }
 }
